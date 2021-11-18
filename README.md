@@ -1,11 +1,11 @@
 👋 Hi, I’m @HABC1707 also known as Hugo Barragán 
 
-Analyst in Sales & Trading, providing support for Trading, Corporate and Institutional Sales on the Derivatives, Fixed Income and FX desks. Bachelor's in Finance & Banking.
+Financial Analyst. Bachelor's in Finance and Banking. Focused on Trading, Investing, Markets, Economics, Programming, Data Science, Quantitative Trading, Finance, Analysis and Reasearch. Self taught Programmer in Python, VBA and SQL
  #finance, #markets, #trading, #investing, #datascience, #algorithmictrading, #quantitativetrading, #highfrequencytrading & #programming
 
-🌱 I’m currently learning Python, Datascience, SQL
+🌱 I’m currently learning Python, Datascience, SQL, VBA
 
-💞️ I’m looking to collaborate on Finance related projects
+💞️ I’m looking to collaborate on Finance / Quantitative Finance / Data Science related projects
 
 📫 How to reach me:
 
